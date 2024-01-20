@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "prasoon",
+      "email": "prasoon@gmail.com",
+      "password": "12345",
+      "id": "1"
+    },
+    {
+      "name": "prasoon1",
+      "email": "prasoon1@gmail.com",
+      "password": "1234567890",
+      "id": "2"
+    },
+    {
+      "email": "dfgh",
+      "name": "dfghjk",
+      "password": "fgh",
+      "id": "3"
+    },
+    {
+      "email": "dfgh",
+      "name": "dfghjk",
+      "password": "fgh",
+      "id": "4"
+    },
+    {
+      "email": "dfgh",
+      "name": "dfghjk",
+      "password": "fgh",
+      "id": "5"
+    },
+    {
+      "email": "mayank@gmail.com",
+      "name": "mayank",
+      "password": "12334",
+      "id": "6"
+    },
+    {
+      "email": "sdfgh",
+      "name": "asdfn",
+      "password": "1234567",
+      "id": "7"
+    },
+    {
+      "email": "vik@gmail.com",
+      "name": "Vikram",
+      "password": "vikram",
+      "id": "8"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pizza Hut",
+      "address": "Delhi_1",
+      "contact": "1111",
+      "id": "1"
+    },
+    {
+      "name": "Burger King",
+      "address": "Delhi_2",
+      "contact": "2222",
+      "id": "2"
+    },
+    {
+      "name": "KFC",
+      "address": "Delhi_3",
+      "contact": "3333",
+      "id": "3"
+    },
+    {
+      "name": "Lapino's",
+      "address": "Delhi_4",
+      "contact": "4444",
+      "id": "4"
+    }
+  ]
+}
